@@ -6,7 +6,6 @@
 <h1 align="center">Hey👋, I'm Masood Khan</h1>
 <h3 align="center">a 19-year-old web dev student turning coffee into code and ideas into reality! ☕</h3>
 
-<p align="left"> <a href="https://twitter.com/masoodforwork" target="blank"><img src="https://img.shields.io/twitter/follow/masoodforwork?logo=twitter&style=for-the-badge" alt="masoodforwork" /></a> </p>
 
 - 🔭 Currently mastering **Javascript and React to create stunning web applications.**
 
