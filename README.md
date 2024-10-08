@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b9b67405-1567-477f-aab3-5109a21356fc" width="100%"/>
+<img src="https://github.com/user-attachments/assets/b9b67405-1567-477f-aab3-5109a21356fc" width="100%" height="150"/>
 <h1 align="left">👨‍💻 Hello World, it's Masood Khan</h1>
 <h3 align="left">a 19-year-old web dev student turning coffee into code and ideas into reality! ☕</h3>
 
