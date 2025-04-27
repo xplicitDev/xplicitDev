@@ -25,9 +25,9 @@
 </p>
 
 <hr>
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=xplicitDev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-</p>
+</p> -->
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=xplicitDev&theme=tokyonight&hide_border=false"/>
