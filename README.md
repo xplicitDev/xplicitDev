@@ -1,14 +1,18 @@
 <img src="https://github.com/user-attachments/assets/b9b67405-1567-477f-aab3-5109a21356fc" width="100%" height="150"/>
-<h1 align="left">👨‍💻 Hello World, it's Masood Khan</h1>
-<h3 align="left">a 19-year-old web dev student turning coffee into code and ideas into reality! ☕</h3>
+<h2>👨‍💻console.log("𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱! 𝗜'𝗺 𝗠𝗮𝘀𝗼𝗼𝗱 𝗞𝗵𝗮𝗻.");</h2> 
 
-- 🔭 Currently mastering **Javascript and React to create stunning web applications.**
+My productivity peaks somewhere between **12 AM and an existential crisis**. 
 
-- 📫 How to reach me **masoodforwork@gmail.com**
+### ⚠️ Warning: Developer at Work
 
-- 🤝 I'm on the lookout for **projects to help me land my first job.**
+Typos are my side hustle, and `Ctrl + Z` is my most-used feature after `console.log()`.  
 
-- ⚡ Fun fact **Coffee is the ultimate debugger for every web dev student!**
+
+- `Typos: 1 | Masood: 0`  
+
+
+### I write code, fix bugs, and pretend I know Web3 — **please hire me.**  
+
 
 <h2 align="left">📨 Connect with me:</h2>
 <p align="left">
