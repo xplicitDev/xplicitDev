@@ -16,9 +16,9 @@ Typos are my side hustle, and `Ctrl + Z` is my most-used feature after `console.
 
 <h2 align="left">📨 Connect with me:</h2>
 <p align="left">
-    <a href="masoodforwork@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="masoodforwork"/></a>
-<a href="https://twitter.com/masoodforwork" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="masoodforwork"/></a>
-<a href="https://linkedin.com/in/masood-khan-7710472b6" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
+    <a href="mailto:masoodforwork@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="masoodforwork"/></a>
+    <a href="https://twitter.com/masoodforwork" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="masoodforwork"/></a>
+    <a href="https://linkedin.com/in/masood-khan-7710472b6" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 <h2 align="left">⌨️Languages and Tools:</h2>
