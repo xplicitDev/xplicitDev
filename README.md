@@ -22,12 +22,8 @@ Typos are my side hustle, and `Ctrl + Z` is my most-used feature after `console.
 
 <h2 align="left">⌨️Languages and Tools:</h2>
 <p align="left">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="50"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="50"/> <img src="https://skillicons.dev/icons?i=github" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="40" width="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="40" width="50"/>
-          
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,postman,mysql,mongodb,vscode,git,github,npm,bash,ubuntu,notion"/>
 </p>
-
 <hr>
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=xplicitDev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
