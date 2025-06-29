@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/b9b67405-1567-477f-aab3-5109a21356fc" width="100%" height="150"/>
-<h2>👨‍💻console.log("𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱! 𝗜'𝗺 𝗠𝗮𝘀𝗼𝗼𝗱 𝗞𝗵𝗮𝗻.");</h2> 
+<h2>👨‍💻console.log("𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱!");</h2> 
 
 My productivity peaks somewhere between **12 AM and an existential crisis**. 
 
