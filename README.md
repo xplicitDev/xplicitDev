@@ -11,7 +11,7 @@ Typos are my side hustle, and `Ctrl + Z` is my most-used feature after `console.
 - `Typos: 1 | Masood: 0`  
 
 
-### I write code, fix bugs, and pretend I know Web3 — **please hire me.**  
+### I write code, fix bugs, and pretend I know Web3 — **ready to join your dev team.**  
 
 
 <h2 align="left">📨 Connect with me:</h2>
