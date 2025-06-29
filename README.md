@@ -25,10 +25,9 @@ I write code, fix bugs, and pretend I know Web3 — **ready to join your dev tea
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,postman,mysql,mongodb,vscode,git,github,npm,bash,ubuntu,notion"/>
 </p>
 <hr>
-<!-- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xplicitDev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-</p> -->
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xplicitDev&theme=tokyonight&hide_border=false"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xplicitDev&theme=tokyonight&hide_border=true" alt="xplicitDev's Streak" />
+</div>
+
+<!-- ![xplicitDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xplicitDev&theme=tokyonight&hide_border=true) -->
