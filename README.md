@@ -15,9 +15,15 @@ I write code, fix bugs, and pretend I know Web3 — **ready to join your dev tea
 
 <h2 align="left">📨 Connect with me:</h2>
 <p align="left">
-   <a href="mailto:masoodforwork@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="masoodforwork" width="45" height="45"/></a>
-   <a href="https://twitter.com/masoodforwork" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="masoodforwork" width="45" height="45"/></a>
-   <a href="https://linkedin.com/in/masood-khan-7710472b6" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/></a>
+  <a href="mailto:masoodforwork@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+  <a href="https://twitter.com/masoodforwork">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+  </a>
+  <a href="https://linkedin.com/in/masood-khan-7710472b6">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
 </p>
 
 <h2 align="left">⌨️Languages and Tools:</h2>
