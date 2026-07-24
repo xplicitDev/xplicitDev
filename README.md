@@ -20,7 +20,7 @@ I write code, fix bugs, and pretend I know Web3 — **ready to join your dev tea
 
 <h2 align="left">⌨️Languages and Tools:</h2>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mysql,mongodb,postman,docker,azure,bash,git,linux,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,react,tailwind,nodejs,express,mysql,mongodb,postman,docker,azure,bash,git,linux,github"/>
 </p>
 <hr>
 
